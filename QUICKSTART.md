@@ -12,8 +12,11 @@
 ## Step 2: Setup (1 minute)
 
 ```bash
-# Navigate to the project folder
-cd abilitypath_prototype
+# Create a virtual environment
+python3 -m venv venv
+
+# Activate the virtual environment
+source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
@@ -38,12 +41,12 @@ You should see:
 ```
 🚀 Starting AbilityPath Screening Agent
 ======================================
-Access the web interface at: http://localhost:5000
+Access the web interface at: http://localhost:5002
 ```
 
 ## Step 4: Test (1 minute)
 
-Open your browser to: **http://localhost:5000**
+Open your browser to: **http://localhost:5002**
 
 Try this conversation:
 ```
@@ -106,10 +109,10 @@ pip install -r requirements.txt
 - Open `.env` and make sure your key is there
 - Make sure there are no spaces: `OPENAI_API_KEY=sk-...`
 
-### "Port 5000 already in use"
+### "Port 5002 already in use"
 Edit `web_app.py`, change the last line from:
 ```python
-app.run(debug=True, host='0.0.0.0', port=5000)
+app.run(debug=True, host='0.0.0.0', port=5002)
 ```
 to:
 ```python

@@ -26,7 +26,7 @@
 
 ### Slide 3: Live Demo (2 minutes)
 **What to do:**
-1. Open http://localhost:5000
+1. Open http://localhost:5002
 2. Run Maria & Kevin scenario (have it pre-typed)
 3. Show the conversation flow
 4. Show instant program recommendations
@@ -158,7 +158,7 @@ A: "The AI is trained to recognize complexity. When it detects multiple needs, c
 - [ ] Have the demo script typed and ready to paste
 - [ ] Take screenshots as backup if internet fails
 - [ ] Restart the server fresh: `python web_app.py`
-- [ ] Open localhost:5000 in advance
+- [ ] Open localhost:5002 in advance
 - [ ] Have the architecture diagram ready
 
 ### During Presentation:
@@ -215,7 +215,7 @@ A: "The AI is trained to recognize complexity. When it detects multiple needs, c
 - [ ] Power cable accessible
 - [ ] Internet tested
 - [ ] Server running
-- [ ] Browser open to localhost:5000
+- [ ] Browser open to localhost:5002
 - [ ] Demo script ready
 - [ ] Water bottle handy
 - [ ] Deep breath - you got this!
