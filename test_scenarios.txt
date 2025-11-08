@@ -1,0 +1,143 @@
+# Test Scenarios for AbilityPath AI Screening Agent
+
+## Scenario 1: Maria & Kevin (Young Adult Transition)
+**Profile:** 22-year-old, just graduated, needs daytime support + job training
+
+**User Message 1:**
+"Hi, I'm Maria. My son Kevin just turned 22 and graduated from high school last month. I'm really worried because his school services ended and I don't know what's next."
+
+**Expected AI Response:** Empathetic welcome, asks about Kevin's needs
+
+**User Message 2:**
+"He needs somewhere to go during the day while I work. I'm hoping to find job training for him too. Right now I have 30 days to figure this out or I'll have to quit my job."
+
+**Expected AI Response:** Shows understanding, might ask follow-up questions
+
+**User Message 3:**
+"What programs can help us?"
+
+**Expected Result:** Should recommend:
+- Transition to Adulthood Services (100% match)
+- Vocational Training & Employment (high match)
+- Adult Day Program (high match)
+
+---
+
+## Scenario 2: Early Intervention (Infant/Toddler)
+**Profile:** 18-month-old with developmental delays
+
+**User Message 1:**
+"Hello, I'm concerned about my 18-month-old daughter. She's not talking yet and seems delayed compared to other kids her age."
+
+**User Message 2:**
+"Our pediatrician said she has developmental delays and recommended early intervention. What services do you have for toddlers?"
+
+**Expected Result:** Should recommend:
+- Early Intervention Services (100% match)
+
+---
+
+## Scenario 3: Behavioral Support (School Age)
+**Profile:** 10-year-old with autism and challenging behaviors
+
+**User Message 1:**
+"We need help with our 10-year-old son who has autism. He's having really challenging behaviors at home and school."
+
+**User Message 2:**
+"We need intensive behavioral support and honestly, my spouse and I need respite care. We're exhausted and need some breaks."
+
+**Expected Result:** Should recommend:
+- Intensive Behavioral Support Services (100% match)
+- Respite Care Services (high match)
+- School-Age Support Services (high match)
+
+---
+
+## Scenario 4: Adult Looking for Employment
+**Profile:** 28-year-old with developmental disability, wants to work
+
+**User Message 1:**
+"Hi, I'm calling about my 28-year-old brother. He has Down syndrome and really wants to get a job."
+
+**User Message 2:**
+"He can work with support and supervision. We're looking for job training and help finding employment."
+
+**Expected Result:** Should recommend:
+- Vocational Training & Employment Services (100% match)
+- Adult Day Program (moderate match)
+
+---
+
+## Scenario 5: Independent Living Support
+**Profile:** 35-year-old living alone, needs ongoing support
+
+**User Message 1:**
+"I'm looking for services for myself. I'm 35 and have a developmental disability. I live in my own apartment but need help with some things."
+
+**User Message 2:**
+"I need help with budgeting, making sure I take my medications, and dealing with emergencies. I want to stay independent."
+
+**Expected Result:** Should recommend:
+- Supported Independent Living (100% match)
+
+---
+
+## Scenario 6: Social Recreation (Multiple Ages)
+**Profile:** Just looking for social activities
+
+**User Message 1:**
+"Do you have any social activities or recreation programs? My 15-year-old daughter with autism doesn't have many friends and I'd like her to have more social opportunities."
+
+**Expected Result:** Should recommend:
+- Social Recreation Programs (100% match)
+- School-Age Support Services (moderate match)
+
+---
+
+## Scenario 7: Preschool Age
+**Profile:** 4-year-old needing inclusive preschool
+
+**User Message 1:**
+"My 4-year-old son has autism and we're looking for a preschool program. We want an inclusive environment where he can learn social skills."
+
+**Expected Result:** Should recommend:
+- Inclusive Preschool Program (100% match)
+
+---
+
+## Testing Tips:
+
+1. **Start simple:** Test basic conversations first
+2. **Try variations:** Change the wording, see if it still works
+3. **Test edge cases:** What if user is vague? What if they say "I don't know"?
+4. **Check empathy:** Does the AI sound caring and supportive?
+5. **Verify matching:** Are the program recommendations accurate?
+
+## What to Look For:
+
+✅ Agent asks follow-up questions naturally
+✅ Agent extracts age correctly
+✅ Agent identifies needs from conversation
+✅ Recommendations are relevant and accurate
+✅ Tone is warm and empathetic (not robotic)
+✅ Agent provides actionable next steps
+
+## Common Issues to Watch:
+
+❌ Agent doesn't extract age from text like "22 years old"
+❌ Agent asks too many questions before recommending
+❌ Agent misses obvious needs from the conversation
+❌ Recommendations don't match the described situation
+❌ Tone is too formal or cold
+
+---
+
+## Quick Test Commands (for terminal testing):
+
+If using `python screening_agent.py`:
+
+```
+Test 1: Hi, my son is 22 and just graduated high school. He needs daytime support and job training.
+Test 2: My 2-year-old has developmental delays. What early intervention services do you offer?
+Test 3: Looking for job training for my 30-year-old brother who wants to work.
+```
