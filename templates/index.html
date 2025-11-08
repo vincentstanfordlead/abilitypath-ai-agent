@@ -309,9 +309,11 @@
                 messageDiv.appendChild(content);
             }
             
+            
             chatContainer.appendChild(messageDiv);
             chatContainer.scrollTop = chatContainer.scrollHeight;
         }
+
 
         function showTyping(show = true) {
             const indicator = document.getElementById('typingIndicator');
@@ -398,7 +400,7 @@
 
         // Add initial greeting
         setTimeout(() => {
-            addMessage("Hi! I'm here to help you find the right programs at AbilityPath. Can you tell me a bit about who needs support and what kind of help you're looking for?", false);
+            addMessage("Welcome to AbilityPath! I'm here to help you navigate services for individuals with developmental disabilities. I'm available 24/7 to answer questions about: \n- SARC eligibility & referrals\n- Our programs & services\n- Required documents\n- Scheduling tours\n\nHow can I help you today?", false);
         }, 500);
     </script>
 </body>

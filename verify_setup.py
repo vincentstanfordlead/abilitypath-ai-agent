@@ -228,7 +228,7 @@ def main():
         print("\n🎉 SUCCESS! Your prototype is ready to run!")
         print("\nNext steps:")
         print("  1. Run: python web_app.py")
-        print("  2. Open: http://localhost:5000")
+        print("  2. Open: http://localhost:5002")
         print("  3. Try the test scenarios in test_scenarios.txt")
     else:
         print("\n⚠️  Some checks failed. Please fix the issues above.")

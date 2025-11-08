@@ -88,11 +88,11 @@ You should see:
 ```
 🚀 Starting AbilityPath Screening Agent
 ======================================
-Access the web interface at: http://localhost:5000
+Access the web interface at: http://localhost:5002
 ```
 
 ### Step 7: Open Your Browser
-Go to: **http://localhost:5000**
+Go to: **http://localhost:5002**
 
 ---
 
@@ -202,7 +202,7 @@ pip install -r requirements.txt
 - Make sure it says: `OPENAI_API_KEY=sk-your-key-here`
 - No spaces, no quotes
 
-**"Port 5000 already in use"**
+**"Port 5002 already in use"**
 - Edit `web_app.py`, change last line to: `app.run(debug=True, port=5001)`
 - Then go to http://localhost:5001
 

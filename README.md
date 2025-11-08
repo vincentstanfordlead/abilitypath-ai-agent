@@ -19,7 +19,13 @@ A working prototype of an AI-powered screening agent that helps match clients wi
 
 ### 1. Install Dependencies
 ```bash
-cd abilitypath_prototype
+# Create a virtual environment
+python3 -m venv venv
+
+# Activate the virtual environment
+source venv/bin/activate
+
+# Install dependencies
 pip install -r requirements.txt
 ```
 
@@ -38,7 +44,7 @@ cp .env.example .env
 python web_app.py
 ```
 
-Open your browser to: **http://localhost:5000**
+Open your browser to: **http://localhost:5002**
 
 ### 4. Test It!
 Try this conversation:
@@ -182,7 +188,7 @@ Edit `templates/index.html`:
 - Verify OpenAI API key has credits
 - Check terminal for error messages
 
-**Port 5000 already in use**
+**Port 5002 already in use**
 - Change port in `web_app.py`, last line to `port=5001`
 - Access at `http://localhost:5001`
 
