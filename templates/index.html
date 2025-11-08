@@ -235,53 +235,6 @@
             background: #ff4444;
             color: white;
         }
-
-        .program-buttons {
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-            margin-top: 15px;
-        }
-
-        .program-button {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            border: none;
-            padding: 12px 16px;
-            border-radius: 8px;
-            cursor: pointer;
-            text-align: left;
-            transition: all 0.3s ease;
-            font-size: 14px;
-        }
-
-        .program-button:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
-        }
-
-        .program-button:active {
-            transform: translateY(0);
-        }
-
-        .program-button .program-name {
-            font-weight: bold;
-            display: block;
-            margin-bottom: 4px;
-        }
-
-        .program-button .program-description {
-            font-size: 12px;
-            opacity: 0.9;
-            display: block;
-            margin-bottom: 2px;
-        }
-
-        .program-button .program-age {
-            font-size: 11px;
-            opacity: 0.8;
-            font-style: italic;
-        }
     </style>
 </head>
 <body>
@@ -330,7 +283,7 @@
                 }
             });
 
-        function addMessage(text, isUser = false, programOptions = null) {
+        function addMessage(text, isUser = false) {
             const chatContainer = document.getElementById('chatContainer');
             const welcomeMessage = chatContainer.querySelector('.welcome-message');
             if (welcomeMessage) {
@@ -356,37 +309,11 @@
                 messageDiv.appendChild(content);
             }
             
-            // Add program buttons if provided
-            if (programOptions && programOptions.length > 0) {
-                const buttonsContainer = document.createElement('div');
-                buttonsContainer.className = 'program-buttons';
-                
-                programOptions.forEach(program => {
-                    const button = document.createElement('button');
-                    button.className = 'program-button';
-                    button.onclick = () => handleProgramClick(program.id, program.name);
-                    
-                    button.innerHTML = `
-                        <span class="program-name">${program.name}</span>
-                        <span class="program-description">${program.description}</span>
-                        <span class="program-age">${program.age_range}</span>
-                    `;
-                    
-                    buttonsContainer.appendChild(button);
-                });
-                
-                messageDiv.appendChild(buttonsContainer);
-            }
             
             chatContainer.appendChild(messageDiv);
             chatContainer.scrollTop = chatContainer.scrollHeight;
         }
 
-        function handleProgramClick(programId, programName) {
-            const userInput = document.getElementById('userInput');
-            userInput.value = `Tell me more about ${programName}`;
-            sendMessage();
-        }
 
         function showTyping(show = true) {
             const indicator = document.getElementById('typingIndicator');
@@ -429,7 +356,7 @@
                 if (data.error) {
                     addMessage(`Error: ${data.error}`, false);
                 } else {
-                    addMessage(data.response, false, data.program_options);
+                    addMessage(data.response, false);
                 }
                 
             } catch (error) {
