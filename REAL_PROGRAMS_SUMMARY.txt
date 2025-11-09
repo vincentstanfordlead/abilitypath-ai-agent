@@ -1,0 +1,378 @@
+═══════════════════════════════════════════════════════════════════════
+ABILITYPATH REAL PROGRAMS SUMMARY
+═══════════════════════════════════════════════════════════════════════
+15 Programs Loaded from CSV | Created: 2025-01-08
+
+───────────────────────────────────────────────────────────────────────
+📊 PROGRAM BREAKDOWN BY TYPE
+───────────────────────────────────────────────────────────────────────
+
+DAY PROGRAMS (5 programs)
+─────────────────────────────────────────────────────────────────────
+1. Adult Day Program, Burlingame
+   • San Mateo County
+   • Ages 18+, Developmental Disability
+   • 899 Stanton Rd, Burlingame, CA 94010
+   • M-F 9am-3pm (full-time or part-time)
+
+2. Adult Day Program, Daly City
+   • San Mateo County
+   • Ages 18+, Developmental Disability
+   • 550 Washington St #100, Daly City, CA 94015
+   • M-F 9am-3pm (full-time or part-time)
+
+3. Community Access Adult Day Program
+   • San Mateo County
+   • Ages 18+, Developmental Disability
+   • Various community locations
+   • M-F 9am-3pm (full-time or part-time)
+
+4. Adult Day Program, San Jose
+   • Santa Clara County
+   • Ages 18+, Developmental Disability
+   • Based: 2248 N. First Street, San Jose, CA 95131
+   • M-F 9am-3pm (full-time or part-time)
+
+5. Adult Day Program, Palo Alto
+   • Santa Clara County
+   • Ages 18+, Developmental Disability
+   • Based: 3864 Middlefield Rd, Palo Alto, CA 94303
+   • M-F 9am-3pm (full-time or part-time)
+
+SOCIAL RECREATION (2 programs)
+─────────────────────────────────────────────────────────────────────
+6. Youth Social Recreation
+   • San Mateo County AND Santa Clara County
+   • Ages 12-17, Developmental Disability
+   • Various community locations
+   • Weekends, weeknights, summer, school breaks
+
+7. Adult Social Recreation
+   • San Mateo County AND Santa Clara County
+   • Ages 18-30, Developmental Disability
+   • Various community locations
+   • Weekends, weeknights, summer, school breaks
+
+INDEPENDENT LIVING SKILLS (2 programs)
+─────────────────────────────────────────────────────────────────────
+8. Independent Living Skills, North
+   • SF to Palo Alto corridor
+   • Ages 18+, Developmental Disability
+   • At home or in community (1:1 coaching)
+   • Flexible scheduling
+
+9. Independent Living Skills, South
+   • Palo Alto to Santa Cruz corridor
+   • Ages 18+, Developmental Disability
+   • At home or in community (1:1 coaching)
+   • Flexible scheduling
+
+TAILORED SERVICES (1 program)
+─────────────────────────────────────────────────────────────────────
+10. Tailored Day Services, San Mateo County
+    • San Mateo County
+    • Ages 18+, Developmental Disability
+    • Community or AbilityPath site (1:1 instructor)
+    • Pre-employment focused
+    • Flexible scheduling
+
+EMPLOYMENT SERVICES (3 programs)
+─────────────────────────────────────────────────────────────────────
+11. Employment Services, San Mateo County
+    • San Mateo County
+    • Ages 18+, Developmental Disability
+    • Community or AbilityPath site
+    • Job placement, internships, coaching
+    • Flexible scheduling
+    • Requires DOR application
+
+12. Employment Services, Santa Clara County
+    • Santa Clara County
+    • Ages 18+
+    • Developmental Disability, Intellectual Disability, TBI, Stroke
+      (TBI/Stroke: case-by-case)
+    • Community locations
+    • Flexible scheduling
+    • Requires DOR application
+
+13. Immersion Work Readiness Program ⭐ NEW
+    • Santa Clara County
+    • Ages 18+
+    • Broad disabilities (DD, ID, physical, mental health, TBI, stroke)
+    • 2248 N. First Street, San Jose, CA 95131
+    • M-F 9am-2pm
+    • Interest list (not yet DOR-approved)
+
+SPECIALIZED PROGRAMS (2 programs)
+─────────────────────────────────────────────────────────────────────
+14. Creative Arts Program ⭐ NEW
+    • Santa Clara County
+    • Ages 18+, Developmental Disability
+    • 525 East Charleston Road, Palo Alto, CA 94306
+    • Days/times TBD
+    • Interest list (not yet SARC-approved)
+
+15. REACH (Stroke & Traumatic Brain Injury Services)
+    • San Mateo County OR Santa Clara County
+    • TBI or Stroke survivors (specialized)
+    • Cubberley Community Center, Palo Alto
+    • Licensed therapy: PT, OT, Speech
+    • Contact: braininjuryservices@abilitypath.org
+
+───────────────────────────────────────────────────────────────────────
+🗺️  GEOGRAPHIC DISTRIBUTION
+───────────────────────────────────────────────────────────────────────
+
+SAN MATEO COUNTY ONLY (7 programs):
+  • Adult Day Program, Burlingame
+  • Adult Day Program, Daly City
+  • Community Access Adult Day Program
+  • Tailored Day Services, San Mateo County
+  • Employment Services, San Mateo County
+  • Independent Living Skills, North (SF-Palo Alto)
+  • REACH (also serves Santa Clara)
+
+SANTA CLARA COUNTY ONLY (5 programs):
+  • Adult Day Program, San Jose
+  • Adult Day Program, Palo Alto
+  • Employment Services, Santa Clara County
+  • Immersion Work Readiness Program
+  • Creative Arts Program
+
+BOTH COUNTIES (2 programs):
+  • Youth Social Recreation
+  • Adult Social Recreation
+
+MULTI-REGION (1 program):
+  • REACH - serves both counties
+
+───────────────────────────────────────────────────────────────────────
+👤 POPULATION SERVED BY AGE
+───────────────────────────────────────────────────────────────────────
+
+YOUTH (Ages 12-17):
+  • Youth Social Recreation (ONLY youth program)
+
+ADULTS (Ages 18+):
+  • 13 programs serve adults 18+
+  • 1 program specifies 18-30 (Adult Social Recreation)
+
+YOUNG ADULTS SPECIFICALLY (18-30):
+  • Adult Social Recreation
+
+───────────────────────────────────────────────────────────────────────
+🏥 DIAGNOSIS ACCEPTANCE
+───────────────────────────────────────────────────────────────────────
+
+DEVELOPMENTAL DISABILITY (DD) - Most Common:
+  • 14 programs accept DD
+
+INTELLECTUAL DISABILITY (ID):
+  • Employment Services, Santa Clara County
+  • Immersion Work Readiness Program
+
+TRAUMATIC BRAIN INJURY (TBI):
+  • REACH (specialized for TBI)
+  • Employment Services, Santa Clara County (case-by-case)
+  • Immersion Work Readiness Program
+
+STROKE:
+  • REACH (specialized for Stroke)
+  • Employment Services, Santa Clara County (case-by-case)
+  • Immersion Work Readiness Program
+
+BROADER DISABILITIES:
+  • Immersion Work Readiness Program (physical, mental health, etc.)
+
+───────────────────────────────────────────────────────────────────────
+🎯 PROGRAM FOCUS AREAS
+───────────────────────────────────────────────────────────────────────
+
+EMPLOYMENT FOCUS:
+  • Employment Services, San Mateo County
+  • Employment Services, Santa Clara County
+  • Immersion Work Readiness Program
+  • Tailored Day Services (pre-employment)
+
+LIVING SKILLS FOCUS:
+  • Independent Living Skills, North
+  • Independent Living Skills, South
+
+SOCIAL/RECREATION FOCUS:
+  • Youth Social Recreation
+  • Adult Social Recreation
+
+DAY PROGRAMS (Multiple Focus Areas):
+  • Adult Day Program, Burlingame
+  • Adult Day Program, Daly City
+  • Community Access Adult Day Program
+  • Adult Day Program, San Jose
+  • Adult Day Program, Palo Alto
+
+CREATIVE/ARTS FOCUS:
+  • Creative Arts Program
+
+THERAPEUTIC/REHABILITATION FOCUS:
+  • REACH (PT, OT, Speech therapy)
+
+───────────────────────────────────────────────────────────────────────
+⚡ SUPPORT REQUIREMENTS (ALL PROGRAMS)
+───────────────────────────────────────────────────────────────────────
+
+STANDARD REQUIREMENTS (Most Programs):
+  ✓ Toilet-trained / bathroom independence
+  ✓ Eating independence
+  ✓ Mobility independence (or minimal support)
+  ✓ Medication independence
+  ✓ Non-disruptive behavior
+  ✓ Safe to self and others
+  ✓ Non-destructive of property
+  ✓ No elopement risk
+
+EXCEPTION:
+  • REACH program focuses on therapeutic services
+    (may have different support criteria)
+
+───────────────────────────────────────────────────────────────────────
+📝 ENROLLMENT PROCESSES
+───────────────────────────────────────────────────────────────────────
+
+REGIONAL CENTER REFERRAL (Most Day Programs & ILS):
+  • Adult Day Programs (all 5)
+  • Community Access
+  • Independent Living Skills (North & South)
+  • Tailored Day Services
+  
+  Process:
+  → Contact Regional Center Service Coordinator
+  → Request referral packet sent to intake@abilitypath.org
+  → Required docs: Facesheet, CDER, IPP, Medical/Psych/Social Reports
+
+DEPARTMENT OF REHABILITATION (DOR) APPLICATION:
+  • Employment Services, San Mateo County
+  • Employment Services, Santa Clara County
+  
+  Process:
+  → Complete DOR Application Form
+  → Submit to local DOR office
+  → DOR sends referral packet to AbilityPath
+  → AbilityPath contacts family
+
+DIRECT EMAIL CONTACT:
+  • Youth Social Recreation: socialrec@abilitypath.org
+  • Adult Social Recreation: socialrec@abilitypath.org
+  • REACH: braininjuryservices@abilitypath.org
+
+INTEREST LIST (New Programs):
+  • Immersion Work Readiness Program
+  • Creative Arts Program
+  
+  Process:
+  → Fill out AbilityPath Interest Form
+  → Added to interest list
+  → Contacted when program approved/launches
+
+───────────────────────────────────────────────────────────────────────
+🆕 NEW PROGRAMS (Not Yet Launched)
+───────────────────────────────────────────────────────────────────────
+
+1. IMMERSION WORK READINESS PROGRAM
+   Status: Pending DOR approval
+   Location: 2248 N. First Street, San Jose
+   Schedule: M-F 9am-2pm
+   Note: Broader disability acceptance (DD, ID, TBI, stroke, physical,
+         mental health)
+
+2. CREATIVE ARTS PROGRAM
+   Status: Pending San Andreas Regional Center approval
+   Location: 525 East Charleston Road, Palo Alto
+   Schedule: TBD
+   Note: Arts-focused day program for creative expression
+
+───────────────────────────────────────────────────────────────────────
+📍 SPECIFIC ADDRESSES
+───────────────────────────────────────────────────────────────────────
+
+Burlingame:        899 Stanton Rd, Burlingame, CA 94010
+Daly City:         550 Washington St #100, Daly City, CA 94015
+San Jose:          2248 N. First Street, San Jose, CA 95131
+Palo Alto (Day):   3864 Middlefield Rd, Palo Alto, CA 94303
+Palo Alto (Arts):  525 East Charleston Road, Palo Alto, CA 94306
+REACH:             Cubberley Community Center
+                   4000 Middlefield Road, Building P
+                   Palo Alto, CA 94303
+
+───────────────────────────────────────────────────────────────────────
+⏰ TYPICAL SCHEDULES
+───────────────────────────────────────────────────────────────────────
+
+DAY PROGRAMS:
+  • Monday-Friday, 9:00 AM – 3:00 PM
+  • Full-time (5 days) or Part-time (MWF or TTh) options
+
+SOCIAL RECREATION:
+  • Weekends, weeknights, summer, school breaks
+  • Variable schedule - check website
+
+INDEPENDENT LIVING SKILLS:
+  • Flexible scheduling
+  • Arranged between individual and staff
+
+EMPLOYMENT SERVICES:
+  • Flexible scheduling
+  • Based on individual needs and job coach availability
+
+IMMERSION:
+  • Monday-Friday, 9:00 AM – 2:00 PM
+
+───────────────────────────────────────────────────────────────────────
+🔄 SAMPLE VS. REAL PROGRAMS COMPARISON
+───────────────────────────────────────────────────────────────────────
+
+BEFORE (Sample Programs):
+  • 10 fictional programs
+  • Generic descriptions
+  • Simple criteria
+  • Made-up locations
+
+AFTER (Real Programs):
+  • 15 actual AbilityPath programs
+  • Real descriptions from staff
+  • Detailed entrance criteria
+  • Specific addresses and schedules
+  • Actual enrollment processes
+  • Regional Center/DOR requirements
+
+KEY IMPROVEMENTS:
+  ✓ 5 Day Program locations (not just 1 generic)
+  ✓ 2 Social Recreation programs (youth AND adult)
+  ✓ 2 ILS programs (North AND South regions)
+  ✓ 3 Employment programs (2 counties + Immersion)
+  ✓ 2 specialized programs (Creative Arts + REACH)
+  ✓ Real support requirements documented
+  ✓ Accurate enrollment processes
+
+───────────────────────────────────────────────────────────────────────
+✅ NEXT STEPS
+───────────────────────────────────────────────────────────────────────
+
+1. Run csv_program_loader.py to convert CSV → Python
+2. Review programs_data.json for accuracy
+3. Replace programs_database.py with real programs
+4. Test with realistic scenarios
+5. Update conversation prompts to mention real programs
+6. Prepare demo with 15 real programs
+
+───────────────────────────────────────────────────────────────────────
+📞 CONTACT INFORMATION
+───────────────────────────────────────────────────────────────────────
+
+General Intake:           intake@abilitypath.org
+Social Recreation:        socialrec@abilitypath.org
+REACH (TBI/Stroke):       braininjuryservices@abilitypath.org
+Website:                  https://abilitypath.org
+
+Regional Center Referral: Contact Service Coordinator
+DOR Application:          Submit to local DOR office
+
+═══════════════════════════════════════════════════════════════════════

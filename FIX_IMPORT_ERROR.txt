@@ -1,0 +1,108 @@
+═══════════════════════════════════════════════════════════════════════
+FIX: ImportError - cannot import name 'filter_programs_by_criteria'
+═══════════════════════════════════════════════════════════════════════
+
+PROBLEM:
+  Your new programs_database.py (from CSV) has the program data but is
+  missing the matching functions that the agent needs.
+
+SOLUTION:
+  Add the missing functions automatically with one command!
+
+═══════════════════════════════════════════════════════════════════════
+QUICK FIX (Copy-Paste This)
+═══════════════════════════════════════════════════════════════════════
+
+cd /Users/a12345/Downloads/abilitypath_prototype/
+python3 add_missing_functions.py
+
+That's it! Then run your agent:
+
+python3 web_app.py
+
+═══════════════════════════════════════════════════════════════════════
+WHAT THIS DOES
+═══════════════════════════════════════════════════════════════════════
+
+The script adds these 2 missing functions to your programs_database.py:
+
+1. filter_programs_by_criteria() 
+   - Matches user profile to programs
+   - Scores each program (0-100%)
+   - Returns top matches
+
+2. format_program_recommendations()
+   - Formats recommendations nicely
+   - Shows match percentage
+   - Includes all program details
+
+═══════════════════════════════════════════════════════════════════════
+ALTERNATIVE: Manual Fix
+═══════════════════════════════════════════════════════════════════════
+
+If the automatic fix doesn't work, manually edit programs_database.py:
+
+1. Open programs_database.py in a text editor
+2. Scroll to the bottom (after all the PROGRAMS data)
+3. Copy the code from FIX_PROGRAMS_DATABASE.py
+4. Paste it at the end
+5. Save the file
+
+═══════════════════════════════════════════════════════════════════════
+VERIFY IT WORKED
+═══════════════════════════════════════════════════════════════════════
+
+After running the fix, check it worked:
+
+python3 -c "from programs_database import filter_programs_by_criteria; print('✅ Success!')"
+
+If you see "✅ Success!" - you're good to go!
+If you see an error - use the manual fix above.
+
+═══════════════════════════════════════════════════════════════════════
+NOTE ABOUT web_app_with_logging.py
+═══════════════════════════════════════════════════════════════════════
+
+I see you're trying to run: web_app_with_logging.py
+
+For your demo, use the simpler version:
+  python3 web_app.py
+
+The logging version is for advanced debugging. Stick with web_app.py
+for now!
+
+═══════════════════════════════════════════════════════════════════════
+COMPLETE WORKFLOW
+═══════════════════════════════════════════════════════════════════════
+
+# 1. Navigate to your folder
+cd /Users/a12345/Downloads/abilitypath_prototype/
+
+# 2. Download add_missing_functions.py (from files I provided)
+
+# 3. Run the fix
+python3 add_missing_functions.py
+
+# 4. Verify it worked
+python3 -c "from programs_database import filter_programs_by_criteria; print('✅ Success!')"
+
+# 5. Start your agent
+python3 web_app.py
+
+# 6. Open browser
+# Go to: http://localhost:5001
+
+# 7. Test with real scenario
+# "Hi, my 15-year-old daughter has Down Syndrome and lives in San Mateo.
+#  She wants social activities on weekends."
+
+═══════════════════════════════════════════════════════════════════════
+FILES YOU NEED TO DOWNLOAD
+═══════════════════════════════════════════════════════════════════════
+
+1. add_missing_functions.py - Auto-fix script
+2. FIX_PROGRAMS_DATABASE.py - Manual fix code (backup)
+
+Both are in the files I just created for you!
+
+═══════════════════════════════════════════════════════════════════════

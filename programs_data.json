@@ -1,0 +1,449 @@
+[
+  {
+    "name": "Adult Day Program, Burlingame",
+    "description": "Day Program at Burlingame provides adults with developmental disabilities the experiential knowledge and skills to make informed decisions about and participate in their preferred types and levels of community engagement, including employment, volunteering, and social and recreational activities.",
+    "location": "San Mateo County",
+    "age_range": {
+      "min_age": 18,
+      "max_age": null
+    },
+    "diagnosis_accepted": [
+      "Developmental Disability"
+    ],
+    "support_requirements": {
+      "toilet_trained": true,
+      "eating_independence": true,
+      "mobility_independence": true,
+      "medication_independence": true,
+      "behavioral_requirements": []
+    },
+    "counties_served": [
+      "San Mateo County"
+    ],
+    "physical_location": "899 Stanton Rd, Burlingame, CA 94010\nand at various locations in the local community",
+    "schedule": "5 days per week (Monday-Friday) from 9:00 AM–3:00 PM\nPart-time Monday, Wednesday, Friday and Tuesday, Thursday options available",
+    "enrollment_process": "To begin the intake process, please contact your Regional Center Service Coordinator and request they email a referral packet to intake@abilitypath.org.\n\nRequired Documents:\n\n*Facesheet\n*CDER\n*Current IPP\n*Medical Report\n*Psychological Report\n*Social Report",
+    "program_type": [
+      "Employment Support",
+      "Social Activities",
+      "Day Programs"
+    ]
+  },
+  {
+    "name": "Adult Day Program, Daly City",
+    "description": "Day Program at Daly City provides adults with developmental disabilities the experiential knowledge and skills to make informed decisions about and participate in their preferred types and levels of community engagement, including employment, volunteering, and social and recreational activities.",
+    "location": "San Mateo County",
+    "age_range": {
+      "min_age": 18,
+      "max_age": null
+    },
+    "diagnosis_accepted": [
+      "Developmental Disability"
+    ],
+    "support_requirements": {
+      "toilet_trained": true,
+      "eating_independence": true,
+      "mobility_independence": true,
+      "medication_independence": true,
+      "behavioral_requirements": []
+    },
+    "counties_served": [
+      "San Mateo County"
+    ],
+    "physical_location": "550 Washington St #100, Daly City, CA 94015\nand at various locations in the local community",
+    "schedule": "5 days per week (Monday-Friday) from 9:00 AM–3:00 PM\nPart-time Monday, Wednesday, Friday and Tuesday, Thursday options available",
+    "enrollment_process": "To begin the intake process, please contact your Regional Center Service Coordinator and request they email a referral packet to intake@abilitypath.org.\n\nRequired Documents:\n\n*Facesheet\n*CDER\n*Current IPP\n*Medical Report\n*Psychological Report\n*Social Report",
+    "program_type": [
+      "Employment Support",
+      "Social Activities",
+      "Day Programs"
+    ]
+  },
+  {
+    "name": "Community Access Adult Day Program",
+    "description": "Community Access is a community-based day program designed is to provide adults with developmental disabilities the experiential knowledge and skills to make informed decisions about and participate in their preferred types and levels of community engagement, including employment, volunteering, and social and recreational activities.",
+    "location": "San Mateo County",
+    "age_range": {
+      "min_age": 18,
+      "max_age": null
+    },
+    "diagnosis_accepted": [
+      "Developmental Disability"
+    ],
+    "support_requirements": {
+      "toilet_trained": true,
+      "eating_independence": true,
+      "mobility_independence": true,
+      "medication_independence": true,
+      "behavioral_requirements": []
+    },
+    "counties_served": [
+      "San Mateo County"
+    ],
+    "physical_location": "Various locations in the community",
+    "schedule": "5 days per week (Monday-Friday) from 9:00 AM–3:00 PM\nPart-time Monday, Wednesday, Friday and Tuesday, Thursday options available",
+    "enrollment_process": "To begin the intake process, please contact your Regional Center Service Coordinator and request they email a referral packet to intake@abilitypath.org.\n\nRequired Documents:\n\n*Facesheet\n*CDER\n*Current IPP\n*Medical Report\n*Psychological Report\n*Social Report",
+    "program_type": [
+      "Employment Support",
+      "Social Activities",
+      "Day Programs"
+    ]
+  },
+  {
+    "name": "Adult Day Program, San Jose",
+    "description": "Day Program at San Jose is a community-based day program designed to provide adults with developmental disabilities the experiential knowledge and skills to make informed decisions about and participate in their preferred types and levels of community engagement, including employment, volunteering, and social and recreational activities.",
+    "location": "Santa Clara County",
+    "age_range": {
+      "min_age": 18,
+      "max_age": null
+    },
+    "diagnosis_accepted": [
+      "Developmental Disability"
+    ],
+    "support_requirements": {
+      "toilet_trained": true,
+      "eating_independence": true,
+      "mobility_independence": true,
+      "medication_independence": true,
+      "behavioral_requirements": []
+    },
+    "counties_served": [
+      "Santa Clara County"
+    ],
+    "physical_location": "Based out of 2248 N. First Street, San Jose, CA 95131\nProgram occurs at various locations in the local community",
+    "schedule": "5 days per week (Monday-Friday) from 9:00 AM–3:00 PM\nPart-time Monday, Wednesday, Friday and Tuesday, Thursday options available",
+    "enrollment_process": "To begin the intake process, please contact your Regional Center Service Coordinator and request they email a referral packet to intake@abilitypath.org.\n\nRequired Documents:\n\n*Facesheet\n*CDER\n*Current IPP",
+    "program_type": [
+      "Employment Support",
+      "Social Activities",
+      "Day Programs"
+    ]
+  },
+  {
+    "name": "Adult Day Program, Palo Alto",
+    "description": "Day Program at Palo Alto is a community-based day program designed to provide adults with developmental disabilities the experiential knowledge and skills to make informed decisions about and participate in their preferred types and levels of community engagement, including employment, volunteering, and social and recreational activities.",
+    "location": "Santa Clara County",
+    "age_range": {
+      "min_age": 18,
+      "max_age": null
+    },
+    "diagnosis_accepted": [
+      "Developmental Disability"
+    ],
+    "support_requirements": {
+      "toilet_trained": true,
+      "eating_independence": true,
+      "mobility_independence": true,
+      "medication_independence": true,
+      "behavioral_requirements": []
+    },
+    "counties_served": [
+      "Santa Clara County"
+    ],
+    "physical_location": "Based out of 3864 Middlefield Rd, Palo Alto, CA 94303\nProgram occurs at various locations in the local community",
+    "schedule": "5 days per week (Monday-Friday) from 9:00 AM–3:00 PM\nPart-time Monday, Wednesday, Friday and Tuesday, Thursday options available",
+    "enrollment_process": "To begin the intake process, please contact your Regional Center Service Coordinator and request they email a referral packet to intake@abilitypath.org.\n\nRequired Documents:\n\n*Facesheet\n*CDER\n*Current IPP",
+    "program_type": [
+      "Employment Support",
+      "Social Activities",
+      "Day Programs"
+    ]
+  },
+  {
+    "name": "Youth Social Recreation",
+    "description": "Social Recreation has inclusive programming for youth ages 12-17 with developmental disabilities. Social Rec focuses on building meaningful connections, freidnships, and exploring abilities and interests. Programs are offered on weekends, weeknights, summer, and during school breaks.",
+    "location": "Both San Mateo and Santa Clara",
+    "age_range": {
+      "min_age": 12,
+      "max_age": 17
+    },
+    "diagnosis_accepted": [
+      "Developmental Disability"
+    ],
+    "support_requirements": {
+      "toilet_trained": true,
+      "eating_independence": true,
+      "mobility_independence": true,
+      "medication_independence": true,
+      "behavioral_requirements": []
+    },
+    "counties_served": [
+      "Santa Clara County",
+      "San Mateo County"
+    ],
+    "physical_location": "Various locations in the community or at an AbilityPath site",
+    "schedule": "Days and times vary. Please visit https://abilitypath.org/services/adult-services/social-recreation-programs/ for upcoming programs",
+    "enrollment_process": "To begin the intake process, please email socialrec@abilitypath.org",
+    "program_type": [
+      "Social Activities"
+    ]
+  },
+  {
+    "name": "Adult Social Recreation",
+    "description": "Social Recreation has inclusive programming for adults ages 18-30 with developmental disabilities. Social Rec focuses on building meaningful connections, freidnships, and exploring abilities and interests. Programs are offered on weekends, weeknights, summer, and during school breaks.",
+    "location": "Both San Mateo and Santa Clara",
+    "age_range": {
+      "min_age": 18,
+      "max_age": null
+    },
+    "diagnosis_accepted": [
+      "Developmental Disability"
+    ],
+    "support_requirements": {
+      "toilet_trained": true,
+      "eating_independence": true,
+      "mobility_independence": true,
+      "medication_independence": true,
+      "behavioral_requirements": []
+    },
+    "counties_served": [
+      "Santa Clara County",
+      "San Mateo County"
+    ],
+    "physical_location": "Various locations in the community or at an AbilityPath site",
+    "schedule": "Days and times vary. Please visit https://abilitypath.org/services/adult-services/social-recreation-programs/ for upcoming programs",
+    "enrollment_process": "To begin the intake process, please email socialrec@abilitypath.org",
+    "program_type": [
+      "Social Activities"
+    ]
+  },
+  {
+    "name": "Independent Living Skills, North",
+    "description": "Independent Living Skills (ILS) offers 1:1 coaching at home or in the community to help participants learn everyday skills like cooking, cleaning, budgeting, travel, safety, and socializing, building confidence and living more independently.",
+    "location": "SF to Palo Alto",
+    "age_range": {
+      "min_age": 18,
+      "max_age": null
+    },
+    "diagnosis_accepted": [
+      "Developmental Disability"
+    ],
+    "support_requirements": {
+      "toilet_trained": true,
+      "eating_independence": true,
+      "mobility_independence": true,
+      "medication_independence": true,
+      "behavioral_requirements": []
+    },
+    "counties_served": [
+      "San Francisco",
+      "San Mateo County"
+    ],
+    "physical_location": "At the individual's residence or in the community",
+    "schedule": "Scheduling is flexible and arranged mutually between the individual and the assigned staff member",
+    "enrollment_process": "To begin the intake process, please contact your Regional Center Service Coordinator and request they email a referral packet to intake@abilitypath.org.\n\nRequired Documents:\n\n*Facesheet\n*CDER\n*Current IPP\n*Medical Report\n*Psychological Report\n*Social Report",
+    "program_type": [
+      "Living Skills",
+      "Social Activities"
+    ]
+  },
+  {
+    "name": "Independent Living Skills, South",
+    "description": "Independent Living Skills (ILS) offers 1:1 coaching at home or in the community to help participants learn everyday skills like cooking, cleaning, budgeting, travel, safety, and socializing, building confidence and living more independently.",
+    "location": "Palo Alto to Santa Cruz",
+    "age_range": {
+      "min_age": 18,
+      "max_age": null
+    },
+    "diagnosis_accepted": [
+      "Developmental Disability"
+    ],
+    "support_requirements": {
+      "toilet_trained": true,
+      "eating_independence": true,
+      "mobility_independence": true,
+      "medication_independence": true,
+      "behavioral_requirements": []
+    },
+    "counties_served": [
+      "Santa Cruz County",
+      "Santa Clara County"
+    ],
+    "physical_location": "At the individual's residence or in the community",
+    "schedule": "Scheduling is flexible and arranged mutually between the individual and the assigned staff member",
+    "enrollment_process": "To begin the intake process, please contact your Regional Center Service Coordinator and request they email a referral packet to intake@abilitypath.org.\n\nRequired Documents:\n\n*Facesheet\n*CDER\n*Current IPP",
+    "program_type": [
+      "Living Skills",
+      "Social Activities"
+    ]
+  },
+  {
+    "name": "Tailored Day Services, San Mateo County",
+    "description": "In Tailored Day Services, participants work one-on-one with an instructor to build skills for a more independent, inclusive life. Services are pre-employment focused and may include job exploration, social and recreational activities, college support, daily living skills, and personal interest pursuits.",
+    "location": "San Mateo County",
+    "age_range": {
+      "min_age": 18,
+      "max_age": null
+    },
+    "diagnosis_accepted": [
+      "Developmental Disability"
+    ],
+    "support_requirements": {
+      "toilet_trained": true,
+      "eating_independence": true,
+      "mobility_independence": true,
+      "medication_independence": true,
+      "behavioral_requirements": []
+    },
+    "counties_served": [
+      "San Mateo County"
+    ],
+    "physical_location": "Various locations in the community or at an AbilityPath site",
+    "schedule": "Scheduling is flexible and arranged mutually between the individual and the assigned staff member",
+    "enrollment_process": "To begin the intake process, please contact your Regional Center Service Coordinator and request they email a referral packet to intake@abilitypath.org.\n\nRequired Documents:\n\n*Facesheet\n*CDER\n*Current IPP\n*Medical Report\n*Psychological Report\n*Social Report",
+    "program_type": [
+      "Employment Support",
+      "Living Skills",
+      "Social Activities",
+      "Day Programs"
+    ]
+  },
+  {
+    "name": "Employment Services, San Mateo County",
+    "description": "Employment Services supports individuals with foundational workplace readiness in their employment journey through customized employment tracks (ex: paid internships, group employment, or job placement). Services are designed to maximize success and include resume/cover letter development, interview preparation and support, and dedicated job coaching.",
+    "location": "San Mateo County",
+    "age_range": {
+      "min_age": 18,
+      "max_age": null
+    },
+    "diagnosis_accepted": [
+      "Developmental Disability"
+    ],
+    "support_requirements": {
+      "toilet_trained": true,
+      "eating_independence": true,
+      "mobility_independence": true,
+      "medication_independence": true,
+      "behavioral_requirements": []
+    },
+    "counties_served": [
+      "San Mateo County"
+    ],
+    "physical_location": "Various locations in the community or at an AbilityPath site",
+    "schedule": "Scheduling is flexible and arranged mutually between the individual and the assigned staff member",
+    "enrollment_process": "To begin the intake process, please follow these steps:\n\n1. Complete the Department of Rehabilitation (DOR) Application Form.\n2.  Submit the completed form to your local DOR office (via email, mail, or in person).\n\nOnce your DOR application is processed, the DOR will send us a referral packet. We will review this information and then contact you directly to continue the intake process.",
+    "program_type": [
+      "Employment Support"
+    ]
+  },
+  {
+    "name": "Employment Services,Santa Clara County",
+    "description": "Employment Services supports individuals with foundational workplace readiness in their employment journey through customized employment tracks (ex: paid internships, group employment, or job placement). Services are designed to maximize success and include resume/cover letter development, interview preparation and support, and dedicated job coaching.",
+    "location": "Santa Clara County",
+    "age_range": {
+      "min_age": 18,
+      "max_age": null
+    },
+    "diagnosis_accepted": [
+      "Developmental Disability",
+      "Traumatic Brain Injury",
+      "Stroke"
+    ],
+    "support_requirements": {
+      "toilet_trained": true,
+      "eating_independence": true,
+      "mobility_independence": true,
+      "medication_independence": true,
+      "behavioral_requirements": []
+    },
+    "counties_served": [
+      "Santa Clara County"
+    ],
+    "physical_location": "Various locations in the community",
+    "schedule": "Scheduling is flexible and arranged mutually between the individual and the assigned staff member",
+    "enrollment_process": "To begin the intake process, please follow these steps:\n\n1. Complete the Department of Rehabilitation (DOR) Application Form.\n2.  Submit the completed form to your local DOR office (via email, mail, or in person).\n\nOnce your DOR application is processed, the DOR will send us a referral packet. We will review this information and then contact you directly to continue the intake process.",
+    "program_type": [
+      "Employment Support"
+    ]
+  },
+  {
+    "name": "Immersion Work Readiness Program",
+    "description": "The Immersion Work Readiness Program prepares individuals with a range of disabilities (including but not limited to physical, intellectual, developmental, mental health conditions, stroke, and traumatic brain injury) for meaningful, community-based employment. Through structured, small-group modules and individualized service planning, the program equips individuals with the work readiness skills and supports needed to thrive in inclusive workplace settings.",
+    "location": "Santa Clara County",
+    "age_range": {
+      "min_age": 18,
+      "max_age": null
+    },
+    "diagnosis_accepted": [
+      "Traumatic Brain Injury",
+      "Stroke",
+      "Physical Disability",
+      "Mental Health Condition"
+    ],
+    "support_requirements": {
+      "toilet_trained": true,
+      "eating_independence": true,
+      "mobility_independence": true,
+      "medication_independence": true,
+      "behavioral_requirements": []
+    },
+    "counties_served": [
+      "Santa Clara County"
+    ],
+    "physical_location": "2248 N. First Street, San Jose, CA 95131",
+    "schedule": "5 days per week (Monday-Friday) from 9:00 AM–2:00 PM",
+    "enrollment_process": "Since this is a new program, how they get started depends on the chatbot process. We haven't started an interest list yet. If the chatbot automatically records responses and they indicated they're interested in Immersion, we will contact them directly. If the chatbot doesn't have contact info, it should refer them to fill out the AbilityPath Interest Form. This process will change in the future once our program has been approved by the Department of Rehabilitation.",
+    "program_type": [
+      "Employment Support"
+    ]
+  },
+  {
+    "name": "Creative Arts Program",
+    "description": "The upcoming Creative Arts Program empowers adults witih intellectual and developmental disabilites to express themselves creatively, develop artistic and vocational skills, and build community connections through the arts within inclusive community and studio environments.",
+    "location": "Santa Clara County",
+    "age_range": {
+      "min_age": 18,
+      "max_age": null
+    },
+    "diagnosis_accepted": [
+      "Developmental Disability"
+    ],
+    "support_requirements": {
+      "toilet_trained": true,
+      "eating_independence": true,
+      "mobility_independence": true,
+      "medication_independence": true,
+      "behavioral_requirements": []
+    },
+    "counties_served": [
+      "Santa Clara County"
+    ],
+    "physical_location": "525 East Charleston Road, Palo Alto, CA 94306",
+    "schedule": "Days and times TBD",
+    "enrollment_process": "Since this is a new program, how they get started depends on the chatbot process. We haven't started an interest list yet. If the chatbot automatically records responses and they indicated they're interested in Immersion, we will contact them directly. If the chatbot doesn't have contact info, it should refer them to fill out the AbilityPath Interest Form. This process will change in the future once our program has been approved by San Andreas Regional Center",
+    "program_type": [
+      "Employment Support",
+      "Creative Arts"
+    ]
+  },
+  {
+    "name": "REACH (Stroke & Traumatic Brain Injury Services)",
+    "description": "REACH offers therapeutic services and programming for people with stroke and traumatic brain injuries previously provided by two organizations. Our licensed physical, speech, and occupational therapists have decades of learning and hands-on service expertise.",
+    "location": "Both San Mateo and Santa Clara",
+    "age_range": {
+      "min_age": null,
+      "max_age": null
+    },
+    "diagnosis_accepted": [
+      "Traumatic Brain Injury",
+      "Stroke"
+    ],
+    "support_requirements": {
+      "toilet_trained": true,
+      "eating_independence": true,
+      "mobility_independence": true,
+      "medication_independence": true,
+      "behavioral_requirements": []
+    },
+    "counties_served": [
+      "Santa Clara County",
+      "San Mateo County"
+    ],
+    "physical_location": "Cubberley Community Center\n4000 Middlefield Road, Building P\nPalo Alto, CA 94303",
+    "schedule": "Please contact braininjuryservices@abilitypath.org for the class schedule and 1-1 session times",
+    "enrollment_process": "To begin the intake process, please contact braininjuryservices@abilitypath.org",
+    "program_type": [
+      "Therapeutic Services"
+    ]
+  }
+]

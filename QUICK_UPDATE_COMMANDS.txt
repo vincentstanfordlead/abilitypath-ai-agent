@@ -1,0 +1,119 @@
+═══════════════════════════════════════════════════════════════════════
+QUICK COMMANDS: Update Screening Agent with Real Programs
+═══════════════════════════════════════════════════════════════════════
+
+STEP 1: Navigate to Your Project Folder
+─────────────────────────────────────────────────────────────────────
+cd /Users/a12345/abilitypath_prototype/
+
+
+STEP 2: Download Files (if needed)
+─────────────────────────────────────────────────────────────────────
+# Download csv_program_loader.py to this folder
+# Download your CSV to this folder
+# (or copy files you already have)
+
+
+STEP 3: Run the Converter
+─────────────────────────────────────────────────────────────────────
+python3 csv_program_loader.py "WIP_Nov 7_ Tech For Good AbilityPath Info. - Program Info.csv"
+
+# What this creates:
+# ✓ programs_database_real.py  (ready to use)
+# ✓ programs_data.json          (for review)
+
+
+STEP 4: Review the Output
+─────────────────────────────────────────────────────────────────────
+open programs_data.json
+
+# Check:
+# - All 15 programs loaded?
+# - Age ranges correct?
+# - Diagnosis types accurate?
+# - Counties/locations right?
+
+
+STEP 5: Backup Your Old Database
+─────────────────────────────────────────────────────────────────────
+cp programs_database.py programs_database_BACKUP.py
+
+
+STEP 6: Replace with Real Programs
+─────────────────────────────────────────────────────────────────────
+cp programs_database_real.py programs_database.py
+
+
+STEP 7: Restart Your Agent
+─────────────────────────────────────────────────────────────────────
+# In the terminal where agent is running, press: Ctrl+C
+# Then restart:
+python3 web_app.py
+
+
+STEP 8: Test It!
+─────────────────────────────────────────────────────────────────────
+# Go to: http://localhost:5001
+# Try this scenario:
+
+"Hi, my 15-year-old daughter has Down Syndrome and lives in San Mateo. 
+She wants social activities and friendship opportunities. She's toilet-trained 
+and doesn't need medical support."
+
+# Expected result:
+# → Youth Social Recreation (100% match)
+
+
+═══════════════════════════════════════════════════════════════════════
+TROUBLESHOOTING
+═══════════════════════════════════════════════════════════════════════
+
+PROBLEM: "python3: command not found"
+SOLUTION: Try 'python' instead:
+  python csv_program_loader.py "WIP_Nov 7_ Tech For Good AbilityPath Info. - Program Info.csv"
+
+PROBLEM: "No such file or directory"
+SOLUTION: Check you're in the right folder:
+  pwd
+  ls
+
+PROBLEM: Agent still shows old programs
+SOLUTION: 
+  1. Make sure you copied programs_database_real.py to programs_database.py
+  2. Restart the agent (Ctrl+C, then python3 web_app.py)
+  3. Refresh browser
+
+═══════════════════════════════════════════════════════════════════════
+WHAT YOU GET
+═══════════════════════════════════════════════════════════════════════
+
+15 REAL ABILITYPATH PROGRAMS:
+
+DAY PROGRAMS (5):
+  1. Adult Day Program, Burlingame
+  2. Adult Day Program, Daly City
+  3. Community Access Adult Day Program
+  4. Adult Day Program, San Jose
+  5. Adult Day Program, Palo Alto
+
+SOCIAL RECREATION (2):
+  6. Youth Social Recreation (ages 12-17)
+  7. Adult Social Recreation (ages 18-30)
+
+INDEPENDENT LIVING SKILLS (2):
+  8. Independent Living Skills, North (SF-Palo Alto)
+  9. Independent Living Skills, South (Palo Alto-Santa Cruz)
+
+TAILORED SERVICES (1):
+  10. Tailored Day Services, San Mateo County
+
+EMPLOYMENT (3):
+  11. Employment Services, San Mateo County
+  12. Employment Services, Santa Clara County
+  13. Immersion Work Readiness Program (NEW)
+
+SPECIALIZED (2):
+  14. Creative Arts Program (NEW)
+  15. REACH - TBI & Stroke Services
+
+═══════════════════════════════════════════════════════════════════════
