@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Put these in the <head> section -->
+    <link rel="stylesheet" href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css">
+    <script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
+  </head>
+  <body>
+    <!-- Put the widget element somewhere in <body> -->
+    <df-messenger
+      project-id="abilitypath-proj"
+      agent-id="570b73cc-bfbb-4b24-9a11-707f04a678ab"
+      language-code="en"
+      max-query-length="-1"
+      allow-feedback="all">
+      <df-messenger-chat-bubble
+        chat-title="Abby – AbilityPath AI">
+      </df-messenger-chat-bubble>
+    </df-messenger>
+
+    <!-- Styling can be in <head> or <body>, but usually <head> -->
+    <style>
+      df-messenger {
+        z-index: 999;
+        position: fixed;
+        --df-messenger-font-color: #000;
+        --df-messenger-font-family: Google Sans;
+        --df-messenger-chat-background: #f3f6fc;
+        --df-messenger-message-user-background: #d3e3fd;
+        --df-messenger-message-bot-background: #fff;
+        bottom: 16px;
+        right: 16px;
+      }
+    </style>
+  </body>
+</html>
+
